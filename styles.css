@@ -1,0 +1,109 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: black;
+    color: white;
+}
+
+.pic1 {
+    float: left;
+    width: 100px;
+    padding-top: 200px;
+    padding-left: 200px;
+
+}
+
+.container {
+    float: right;
+    padding-right: 40px;
+}
+
+h1 {
+    font-size: 65px;
+    padding-top: 100px;
+    margin-left: 20px;
+}
+
+h2 {
+    font-size: 45px;
+    padding-top: 50px;
+    padding-bottom: 20px;
+    margin-left: 20px;
+}
+
+.googlelink,
+.applelink {
+    background-color: white;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 15px;
+    width: 200px;
+    padding: 10px 20px;
+    border-radius: 20px;
+    margin-bottom: 15px;
+    margin-left: 20px;
+}
+
+.divider {
+    width: 200px;
+    text-align: center;
+    padding-left: 20px;
+    margin-left: 20px;
+}
+
+.create {
+    background-color: rgb(57, 104, 222);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 15px;
+    width: 200px;
+    padding: 10px 20px;
+    border-radius: 20px;
+    margin-bottom: 15px;
+    margin-left: 20px;
+}
+
+.signin {
+    display: inline-block;
+    color: rgb(57, 104, 222);
+    background-color: black;
+    border: 1px solid;
+    border-color: grey;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 15px;
+    font-weight: normal;
+
+    width: 200px;
+    padding: 10px 20px;
+    margin-left: 20px;
+    border-radius: 20px;
+    margin-bottom: 15px;
+
+}
+
+.terms {
+    width: 200px;
+    font-size: 10px;
+    padding-bottom: 10px;
+    margin-left: 40px;
+}
+
+
+
+.terms a {
+    color: rgb(57, 104, 222);
+    text-decoration: none;
+}
+
+h3 {
+    padding-top: 50px;
+    padding-bottom: 25px;
+    margin-left: 40px;
+}
